@@ -1,6 +1,6 @@
 ### Hi there, I'm Golam Rabbani 👋
 <!--
-[![Website](https://img.shields.io/youtube/channel/subscribers/UCPcLZCw3Ih6WUcRK_TsuTYQ?label=MASHIKUR%20RAHMAN&logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCPcLZCw3Ih6WUcRK_TsuTYQ)
+[![Website](https://golamrabbani.com.bd/)]
 -->
 ## I'm a WEB Developer
 
@@ -10,11 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="iammashikur.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="iammashikur | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="iammashikur | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="iammashikur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iammashikur | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iamrabbani" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="iamrabbani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="iamrabbani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -41,9 +39,6 @@
 <br />
 
 
-[website]: https://iammashikur.github.io
-[twitter]: https://twitter.com/700mirash
-[youtube]: https://youtube.com/mirash
-[instagram]: https://instagram.com/iammashikur
-[linkedin]: https://linkedin.com/in/iammashikur
-[link]: https://google.com
+[website]: https://golamrabbani.com.bd/
+[facebook]: [https://twitter.com/700mirash](https://www.facebook.com/golamrabbani.com.bd/)
+[linkedin]: https://www.linkedin.com/in/md-golam-rabbani-a3606a22b/
